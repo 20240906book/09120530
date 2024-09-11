@@ -1,6 +1,6 @@
 insect-catch-game
 /style.css
-
+https://20240906book.github.io/09120530/
 領導人
 執政者
  長期來看短期來看
